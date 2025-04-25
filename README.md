@@ -1,4 +1,6 @@
 # sql-data-warehouse-project
-Building a Modern Data Warehouse with SQL Server, including ETL Processes, data modeling, and analytics.
+Analyze NYC School Construction Projects
 
-The Modeling technique used in this project was the Medallion Architecture.
+Interpret Project Data and Mapping Analysis with GEOJSON NYC School Districts.
+
+GOAL: Provide illustrations on School Construction Activity in NYC
